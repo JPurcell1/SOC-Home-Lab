@@ -2,10 +2,10 @@
 
 ## Tools Used 
 - Wireshark
-- BlueTeamLabs - to download the malicious PCAP
+- BlueTeamLabs - to download the malicious packet capture
 
 ## Steps 
-1. Downloaded malicious Packet capture and open it in wireshark
+1. Downloaded malicious PCAP and open it in wireshark
 2. Checking Protocols
    <img src="" width="" length=""/>
    
