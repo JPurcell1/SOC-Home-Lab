@@ -12,7 +12,7 @@
 3. Locating malicious network traffic (10.251.96.4 targeting 10.251.96.5) <br>
   <img src="https://lh3.googleusercontent.com/pw/AP1GczP_J3HOZfTPJzR6jPqGS3_jGcaBfgsbY_VHKiEHZPQI53jKB0-l5mlVBxc0pQlRdR2k117yyGw8oQ9UixrHYgFMryqgoarzKxarAmw0c1pmmROVLXc=w600-h315-p-k"/>
 
-5. Following HTTP Streams to observe communication between client and server <br>
+4. Following HTTP Streams to observe communication between client and server <br>
   <img src="https://lh3.googleusercontent.com/pw/AP1GczOnrNCJRgxQ4UBIfDw3r7Nbl_VrZE86YGRdVSHk4YwvFdLQv02l5evOEEytjA0setNxIDFrvBwtBT94XA45YlIztoF3EQ8in4x_4gPsBKTcnz-8a4o=w600-h315-p-k" width="800" length="800"/>
   
 
